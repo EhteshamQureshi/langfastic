@@ -1,0 +1,5 @@
+Status,Type,Validation,URLs
+Need improvement,LCP issue: longer than 2.5s (desktop),Not Started,138
+Poor,CLS issue: more than 0.25 (desktop),N/A,0
+Need improvement,CLS issue: more than 0.1 (desktop),N/A,0
+Good,Good URLs,N/A,0
